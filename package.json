@@ -1,6 +1,6 @@
 {
   "name": "environment-secrets",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Environment secrets for node.js",
   "repository": "https://github.com/canufeel/environment-secrets",
   "main": "index.js",
